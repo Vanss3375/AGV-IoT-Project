@@ -21,4 +21,4 @@ sebuah rancangan IoT dengan membuat sebuah mobil yang dapat bergerak mengikuti j
 
 # Preview : 
 - gambar rancangan kontrol aplikasi BLYNK : https://github.com/Vanss3375/AGV-IoT-Project/blob/main/blynk%20app.jpg
-- gambar rancangan video : 
+- gambar rancangan video : https://github.com/Vanss3375/AGV-IoT-Project/blob/main/video%20demo.mp4
