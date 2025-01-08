@@ -14,7 +14,7 @@ sebuah rancangan IoT dengan membuat sebuah mobil yang dapat bergerak mengikuti j
 - upload code ESP-8266
 
 # how to integrated with BLNYK application : 
-- firstly copy template on the code (esp-8266)
+- firstly copy template on the code (esp-8266) -> char auth[] = "ejgdo13y0bvi-a2KB9m_hYlLZ5LUzDqd"; // Replace with your Blynk Auth Token
 - open BLYNK in the chrome
 - connect ESP-8266 with local wifi
 - AGV is ready to run
