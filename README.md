@@ -10,13 +10,13 @@ sebuah rancangan IoT dengan membuat sebuah mobil yang dapat bergerak mengikuti j
 
 # how to implement ?
 - Rancang komponen sensor sesuai mekanisme rancnagan
-- Instalasi / buka arduino ide -> select ESP32 Board
-- upload code ESP-32
+- Instalasi / buka arduino ide -> select ESP8266 Board
+- upload code ESP-8266
 
 # how to integrated with BLNYK application : 
-- firstly copy template on the code (esp-32)
+- firstly copy template on the code (esp-8266)
 - open BLYNK in the chrome
-- connect ESP-32 with local wifi
+- connect ESP-8266 with local wifi
 - AGV is ready to run
 
 # Preview : 
