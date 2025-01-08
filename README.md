@@ -28,6 +28,8 @@ char auth[] = "ejgdo13y0bvi-a2KB9m_hYlLZ5LUzDqd"; // Replace with your Blynk Aut
 - gambar rancangan video : https://github.com/Vanss3375/AGV-IoT-Project/blob/main/video%20demo.mp4
 
 # Lampiran : 
+![](https://github.com/Vanss3375/AGV-IoT-Project/blob/main/image_4529efe1-eeae-40a4-99a5-a45e1944560b20250108_144817.jpg)
+
 ![](https://github.com/Vanss3375/AGV-IoT-Project/blob/main/blynk%20app.jpg)
 
 
